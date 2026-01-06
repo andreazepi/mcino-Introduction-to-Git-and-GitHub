@@ -1,0 +1,9 @@
+  bug-fix-revert                ad95b0a [origin/bug-fix-revert] Create close_pr.yml
+  bug-fix-typo                  576e454 [origin/bug-fix-typo] Update copyright year to 2023
+* main                          6dbf364 [origin/main] Create forked-repo
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/bug-fix-revert ad95b0a Create close_pr.yml
+  remotes/origin/bug-fix-typo   576e454 Update copyright year to 2023
+  remotes/origin/main           6dbf364 Create forked-repo
+  remotes/upstream/HEAD         -> upstream/main
+  remotes/upstream/main         ad95b0a Create close_pr.yml
